@@ -26,6 +26,6 @@ In this project, we will turn an image into a water colour based art
 
 ## Output
 
-![picture](Screenshot from 2022-10-08 13-38-00.png)
+![picture](https://github.com/ParthKalkar/picture-to-art-openCV/blob/79a456780cacc9955d53c42f15dcd7f58546f354/Screenshot%20from%202022-10-08%2013-38-00.png)
 
 
