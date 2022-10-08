@@ -22,7 +22,7 @@ In this project, we will turn an image into a water colour based art
 
 ## Input
 
-![input](Screenshot from 2022-10-08 13-37-51.png)
+![input](nature.jpg)
 
 ## Output
 
